@@ -15,5 +15,10 @@ public class Main {
         neon.color = "red";
         neon.intensity = "300Lumens";
         neon.type = "exterior";
+
+        Color blue = new Color();
+        blue.decals = "Flames";
+        blue.gloss = "Super";
+        blue.type = "Paint";
     }
 }
